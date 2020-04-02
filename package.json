@@ -1,0 +1,11 @@
+{
+  "name": "ngager-icon",
+  "version": "1.0.0",
+  "description": "Ngager Icon",
+  "author": "ngager-group",
+  "license": "MIT",
+  "repository": "ngager-group/ngager-icon",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js"
+}
